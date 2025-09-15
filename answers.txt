@@ -5,3 +5,8 @@ Answer: Git allows us to keep track of our project history and easily collaborat
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to the field of medicine. For example, a data scientist could create a machine learning model, feed it data about a certain disease, and then have it make predictions about the disease. The model could tell us things like how likely is it for this disease to mutate, how the disease will affect human cells, etc. This allows us to make predictions and conclusions using experiment data.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge creates a merge commit to combine the changes of the merging branch into the current branch. Rebase copies over all the commits from a branch and replays them onto the tip of the current branch, making it look like all the commits are part of the current branch. Rebase creates a cleaner commit history and avoids creating a commit that only merges changes. 
+
