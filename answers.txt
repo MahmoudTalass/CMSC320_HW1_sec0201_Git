@@ -10,3 +10,6 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merge creates a merge commit to combine the changes of the merging branch into the current branch. Rebase copies over all the commits from a branch and replays them onto the tip of the current branch, making it look like all the commits are part of the current branch. Rebase creates a cleaner commit history and avoids creating a commit that only merges changes. 
 
+Q4: What are you looking forward to this semester?
+
+Answer: Learning basics of machine learning and apply those concepts to create a machine learning model.
